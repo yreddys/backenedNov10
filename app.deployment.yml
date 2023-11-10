@@ -13,8 +13,8 @@ spec:
         app: departmentservice-mysql
     spec:
       containers:
-        - name: departmentservice-k8s
-          image: yreddys211/departmentservice-k8s:1.0
+        - name: departmentservice
+          image: yreddys211/departmentservice:1.0
           ports:
             - containerPort: 8080
           env:   # Setting Enviornmental Variables
