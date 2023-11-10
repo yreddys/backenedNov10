@@ -1,0 +1,7 @@
+com\example\DepartmentService\DepartmentServiceApplication.class
+com\example\DepartmentService\service\DepartmentServiceImpl.class
+com\example\DepartmentService\service\DepartmentService.class
+com\example\DepartmentService\repository\DepartmentRepository.class
+com\example\DepartmentService\model\DepartmentResponse.class
+com\example\DepartmentService\entity\Department.class
+com\example\DepartmentService\controller\DepartmentController.class
